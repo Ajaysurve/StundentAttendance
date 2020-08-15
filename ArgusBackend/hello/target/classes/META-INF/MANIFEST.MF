@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ajay
+Build-Jdk: 10.0.1
+Implementation-Title: hello
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: exam
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/hello
+Created-By: Maven Integration for Eclipse
+
